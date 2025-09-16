@@ -19,6 +19,7 @@ This is my Java-based Project that demonstartes my understanding of developing a
 - Git and GitHUB for version control and Management 
 
 # Code Implementation: 
+
 import java.util.Scanner;
 public class BMI {
     public static void main(String[] args) {
@@ -49,7 +50,7 @@ public class BMI {
 }
 
 # Project File Link: 
-- I have attached the Project file below: 
+- I have attached the full source code below:  
 [BMI.java](https://github.com/user-attachments/files/22369151/BMI.java)
 
 
