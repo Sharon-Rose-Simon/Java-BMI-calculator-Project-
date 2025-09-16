@@ -7,5 +7,15 @@ This is my Java-based Project that demonstartes my understanding of developing a
 - Using conditional statements such as if-else
 - I have learned and deepened my knowledge and understanding in structuring a simple console application
 
-# Skills:
-- 
+# Skills Used:
+- Java Programming Skills
+- Input handling and Output formatting
+- Control flow with conditional statements
+
+# Tools Used: 
+- IntelliJ IDEA
+- Java Development Kit
+- Console/Terminal = For running the program
+- Git and GitHUB for version control and Management 
+
+# Code Implementation: 
