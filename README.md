@@ -19,3 +19,37 @@ This is my Java-based Project that demonstartes my understanding of developing a
 - Git and GitHUB for version control and Management 
 
 # Code Implementation: 
+import java.util.Scanner;
+public class BMI {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Welcome to the BMI Calculator!");
+
+        System.out.println("Enter your weight in Kilograms ? ");
+        double weight = scanner.nextDouble();
+
+        System.out.println("Enter your height in Kilograms ?");
+        double height = scanner.nextDouble();
+
+        double BMI_sum = weight / (height * height);
+        System.out.printf("Your BMI is:", BMI_sum);
+
+        if(BMI_sum < 18.5) {
+            System.out.println("You are Underweight");
+        } else if (BMI_sum < 25){
+            System.out.println("You are Normal Weight");
+        } else if (BMI_sum < 30) {
+            System.out.println("You are Overweight");
+        } else{
+            System.out.println("You are Obese");
+        }
+        scanner.close();
+    }
+}
+
+# Project File Link: 
+- I have attached the Project file below: 
+[BMI.java](https://github.com/user-attachments/files/22369151/BMI.java)
+
+
