@@ -1,2 +1,3 @@
 # Java-BMI-calculator-Project
-This is my Python-based project focused on solving Data Structures and Algorithms problems to strengthen my coding skills, improve my problem-solving abilities, and to deepen my understanding of CS core concepts.
+This is my Java-based Project that demonstartes my understanding of developing a console-based Body Mass Index (BMI) Calculator application. The program takes user input for weight and height, calculates the BMI and provides feedback on the user's weight category of whether they are underweight, normal weight, overweight or obese. This project highlights my skills and understanding of Java Basics such as input handling with Scanner, arithmetic operations, conditional statements, and console output formatting. 
+
