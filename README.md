@@ -9,6 +9,7 @@ This is my Java-based Project that demonstrates my understanding of developing a
 
 # Skills Used:
 - Java Programming Skills
+- Version Control with Git and Github
 - Input handling and Output formatting
 - Control flow with conditional statements
 
@@ -16,7 +17,7 @@ This is my Java-based Project that demonstrates my understanding of developing a
 - IntelliJ IDEA
 - Java Development Kit
 - Console/Terminal = For running the program
-- Git and GitHUB for version control and Management 
+- GitHUB for version control and Management 
 
 # Code Implementation: 
 
